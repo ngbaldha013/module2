@@ -1,0 +1,3 @@
+Q - What are negative indexes and why are they used?
+
+A - This means that the index value of -1 gives the last element, and -2 gives the second last element of an array. The negative indexing starts from where the array ends.
